@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Christazel
+- 👋 Hi, I’m Christazel
 - 👀 I am interested in becoming a programmer
 
 
