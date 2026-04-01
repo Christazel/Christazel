@@ -1,77 +1,59 @@
-<h1 align="center">👋 Hi, I'm Christazel</h1>
-<h3 align="center">Informatics Graduate | Web & Mobile Developer 🚀</h3>
+<div align="center">
+
+# Yohan Christazel Jeffry
+
+**Informatics Graduate · Web & Mobile Developer**
+
+📍 Yogyakarta, Indonesia
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-christazel-jeffry/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://christazel-jeffry.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yohan.christazel9@gmail.com)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Informatics graduate from Universitas Teknologi Yogyakarta (Cum Laude)
-- 💻 Passionate about **Web Development & Mobile Apps**
-- 🚀 Experienced in building **end-to-end applications**
-- 🤝 Love working in teams and collaborative projects
-- 📍 Based in Yogyakarta, Indonesia
+## About
+
+Informatics graduate from **Universitas Teknologi Yogyakarta** *(Cum Laude)*, with hands-on experience building end-to-end web and mobile applications. I thrive in collaborative environments and am committed to continuous growth as a developer.
 
 ---
 
-## 🛠️ Tech Stack
-### 💻 Frontend
-- HTML, CSS, JavaScript
-- React.js, Next.js
-- Bootstrap, Tailwind CSS
+## Tech Stack
 
-### ⚙️ Backend
-- PHP (Laravel)
-- Python (Flask)
-- MySQL
-
-### 📱 Mobile
-- Flutter
-
-### 🔧 Tools
-- Git & GitHub
-- Figma
-- VS Code
+| Frontend | Backend | Mobile & Tools |
+|----------|---------|----------------|
+| HTML · CSS · JavaScript | PHP · Laravel | Flutter |
+| React.js · Next.js | Python · Flask | Git · GitHub |
+| Tailwind CSS · Bootstrap | MySQL | Figma · VS Code |
 
 ---
 
-## 📂 Featured Projects
-🚀 Beberapa project yang pernah saya kerjakan:
+## Featured Projects
 
-- 📦 **Sistem Manajemen Barang (Flutter + Flask)**
-- 🌐 **Web Portfolio**
-- 🏪 **Sistem Informasi UMKM Berbasis Web**
-- 📊 **Big Data & Information System Projects**
+| Project | Stack |
+|---------|-------|
+| **Inventory Management System** | Flutter · Flask |
+| **UMKM Business Information System** | Web-based |
+| **Big Data & Information System Projects** | Data Engineering · Analytics |
+| **Personal Portfolio Website** | React · Vercel |
 
-👉 Cek semua project saya di sini:  
-🔗 https://github.com/Christazel
-
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn:  
-  https://www.linkedin.com/in/yohan-christazel-jeffry/
-
-- 🌍 Portfolio:  
-  https://christazel-jeffry.vercel.app/
-
-- 📧 Email:  
-  yohan.christazel9@gmail.com
+> View all projects → [github.com/Christazel](https://github.com/Christazel)
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christazel&show_icons=true&theme=tokyonight" />
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christazel&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Christazel&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christazel&theme=tokyonight&hide_border=true" height="160"/>
+</div>
 
 ---
 
-## ✨ Quote
-> "Keep learning, keep building, and never stop improving."
+<div align="center">
 
----
+*"Keep learning, keep building, and never stop improving."*
 
-⭐ From [Christazel](https://github.com/Christazel)
+</div>
