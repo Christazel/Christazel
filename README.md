@@ -29,8 +29,8 @@ role       : "Web & Mobile Developer"
 university : "Universitas Teknologi Yogyakarta"
 major      : "Informatics"
 location   : "Yogyakarta, Indonesia"
-focus      : ["Fullstack Web Development"]
-open_to    : ["Collaboration", "Freelance Projects", "Tech Discussions"]
+focus      : "Fullstack Developer"
+open_to    : "Freelance Projects"
 ```
 
 > 💡 I'm passionate about building modern, responsive, and user-friendly web and mobile applications. I enjoy crafting digital solutions with clean UI, well-structured backend systems, and scalable architecture.
