@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 ```text
@@ -7,7 +8,7 @@
   ╚██╔╝  ██║   ██║██╔══██║██╔══██║██║╚██╗██║
    ██║   ╚██████╔╝██║  ██║██║  ██║██║ ╚████║
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+````
 
 ### `$ whoami` → Yohan Christazel Jeffry
 
@@ -15,11 +16,11 @@
 
 `📍 Yogyakarta, Indonesia`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-christazel-jeffry/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://christazel.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yohan.christazel9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yohan-christazel-jeffry/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://christazel.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yohan.christazel9@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Christazel&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Christazel\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 </div>
 
@@ -54,30 +55,54 @@ I enjoy building modern web and mobile applications with clean UI, structured ba
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
 
 ### Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
 
 ### Mobile & Tools
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Christazel&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Christazel&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christazel&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Christazel&theme=github_dark&utcOffset=7" alt="Productive Time" />
+
+<br/>
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christazel&theme=github_dark" alt="GitHub Profile Details" />
+
+<br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Christazel&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+</div>
 
 ---
 
@@ -87,12 +112,12 @@ I enjoy building modern web and mobile applications with clean UI, structured ba
 $ ls -la ./projects
 ```
 
-| Project | Description | Stack |
-|---|---|---|
-| 📦 **Inventory Management System** | Mobile-based inventory system with backend API integration | `Flutter` · `Flask` |
-| 🏪 **UMKM Business Information System** | Web information system for managing SME business data | `Laravel` · `MySQL` |
-| 🍽️ **Restaurant Reservation System** | Fullstack reservation system with admin dashboard, API, and payment integration | `Next.js` · `Prisma` · `PostgreSQL` |
-| 🌐 **Personal Portfolio Website** | Responsive personal portfolio website deployed on Vercel | `React` · `Tailwind CSS` |
+| Project                                 | Description                                                                     | Stack                               |
+| --------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------- |
+| 📦 **Inventory Management System**      | Mobile-based inventory system with backend API integration                      | `Flutter` · `Flask`                 |
+| 🏪 **UMKM Business Information System** | Web information system for managing SME business data                           | `Laravel` · `MySQL`                 |
+| 🍽️ **Restaurant Reservation System**   | Fullstack reservation system with admin dashboard, API, and payment integration | `Next.js` · `Prisma` · `PostgreSQL` |
+| 🌐 **Personal Portfolio Website**       | Responsive personal portfolio website deployed on Vercel                        | `React` · `Tailwind CSS`            |
 
 > Explore more projects on my GitHub: [github.com/Christazel](https://github.com/Christazel)
 
@@ -122,3 +147,4 @@ Keep learning. Keep building. Keep improving.
 ```
 
 </div>
+```
