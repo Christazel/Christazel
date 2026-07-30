@@ -13,16 +13,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
-```yaml
+```
 name       : Yohan Christazel Jeffry
 degree     : Bachelor of Computer Science
 university : Universitas Teknologi Yogyakarta
 location   : Yogyakarta, Indonesia
 role       : Web & Mobile Developer
 focus      : Fullstack Development
-```
+``` 
 
 Passionate about building modern, responsive, and user-friendly web and mobile applications.
 
@@ -59,18 +59,6 @@ Passionate about building modern, responsive, and user-friendly web and mobile a
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christazel&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Christazel&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<br />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,40&height=100&section=footer" alt="Footer Banner" />
